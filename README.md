@@ -1,0 +1,2 @@
+# ICP
+Static Website
